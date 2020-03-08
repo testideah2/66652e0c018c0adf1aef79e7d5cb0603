@@ -3,11 +3,11 @@
         xmlns:gap   = "http://phonegap.com/ns/1.0"
         xmlns:android="http://schemas.android.com/apk/res/android" 
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
-        id          = "ru.800words.app."
+        id          = "ru.801words.app."
         versionCode = "10"
-        version     = "1.3.0">
+        version     = "1.4.0">
 
-    <name>800words.ru</name>
+    <name>800words</name>
 
     <description>
         800words - школа английского языка, запоминание слов по ГОТОВЫМ ассоциациям, персональный ЧАТ, грамматика
